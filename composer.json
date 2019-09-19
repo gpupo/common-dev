@@ -1,0 +1,33 @@
+{
+    "name": "gpupo/common-dev",
+    "description": "Common PHP tool for require-dev env",
+    "homepage": "https://opensource.gpupo.com/common-dev/",
+    "authors": [
+        {
+            "name": "Gilmar Pupo",
+            "email": "contact@gpupo.com"
+        }
+    ],
+    "keywords": ["common"],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.3.6",
+        "phpunit/phpunit": "^8.0",
+        "phan/phan": "^1.0",
+        "vimeo/psalm": "^3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gpupo\\CommonDev\\": "src",
+            "Gpupo\\CommonDev\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
