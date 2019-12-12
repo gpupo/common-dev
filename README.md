@@ -5,7 +5,7 @@ Common PHP tool for require-dev env
 
 ## Requisitos para uso
 
-* PHP >= *7.3*
+* PHP *>=7.4*
 * [Composer Dependency Manager](http://getcomposer.org)
 
 Este componente **não é uma aplicação Stand Alone** e seu objetivo é ser utilizado como biblioteca.
