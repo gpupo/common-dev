@@ -2,6 +2,7 @@ Common PHP tool for require-dev env
 
 [![Build Status](https://secure.travis-ci.org/gpupo/common-dev.png?branch=master)](http://travis-ci.org/gpupo/common-dev)
 
+[![Actions Status](https://github.com/gpupo/common-dev/workflows/COMPOSER/badge.svg)](https://github.com/gpupo/common-dev/actions)
 
 ## Requisitos para uso
 
