@@ -8,7 +8,7 @@
             "email": "contact@gpupo.com"
         }
     ],
-    "keywords": ["common"],
+    "keywords": ["common", "development"],
     "license": "MIT",
     "require": {
         "php": ">=7.4",
