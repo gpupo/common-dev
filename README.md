@@ -48,3 +48,7 @@ Proibido:
 Adicione o pacote ao seu projeto utilizando [composer](http://getcomposer.org):
 
     composer require --dev gpupo/common-dev
+
+## Instalação para desenvolvimento
+
+    composer install --no-script --ignore-platform-reqs
