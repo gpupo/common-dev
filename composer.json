@@ -28,6 +28,9 @@
     "require-dev": {
         "gpupo/common-sdk": "*"
     },
+    "scripts": {
+        "test": "phpunit"
+    },
     "config": {
         "preferred-install": "dist"
     },
