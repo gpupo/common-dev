@@ -45,6 +45,6 @@ Proibido:
 
 ## Instalação
 
-Adicione o pacote ``common`` ao seu projeto utilizando [composer](http://getcomposer.org):
+Adicione o pacote ao seu projeto utilizando [composer](http://getcomposer.org):
 
-    composer require --dev gpupo/common-dev:^1.0
+    composer require --dev gpupo/common-dev
