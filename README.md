@@ -51,4 +51,4 @@ Adicione o pacote ao seu projeto utilizando [composer](http://getcomposer.org):
 
 ## Instalação para desenvolvimento
 
-    composer install --no-script --ignore-platform-reqs
+    composer install --no-scripts --ignore-platform-reqs

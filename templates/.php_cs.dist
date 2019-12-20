@@ -1,0 +1,11 @@
+<?php
+
+use Gpupo\CommonDevExtra\CsConfigurator;
+
+$packageInfo = [
+    'project' => 'gpupo/{project}',
+    'author' => 'Gilmar Pupo <contact@gpupo.com>',
+    'url' => 'https://opensource.gpupo.com/',
+];
+
+return (new CsConfigurator(__DIR__))->getConfig($packageInfo);
