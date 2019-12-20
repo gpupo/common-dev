@@ -1,4 +1,4 @@
-name: COMPOSER
+name: CI
 on:
   pull_request:
     branches:
@@ -23,7 +23,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        operating-system: [ubuntu-latest, macOS-latest]
+        operating-system: [ubuntu-latest]
         php-versions: ['7.4']
     steps:
       - name: Checkout
