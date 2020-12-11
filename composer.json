@@ -26,6 +26,9 @@
     "require-dev": {
         "gpupo/common-sdk": "*"
     },
+    "replace": {
+        "gpupo/common-dev": "*"
+    },
     "scripts": {
         "test": "phpunit"
     },
